@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# pyenv (프로젝트 내에 생성된 경우)
+.python-version
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# video files
+*.mp4
+res/mov/robot.mp4
